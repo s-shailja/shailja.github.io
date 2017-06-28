@@ -24,3 +24,4 @@ Please refer to my resume for further details about all of my projects and resea
 
 
 ---
+<hr>
