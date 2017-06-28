@@ -21,3 +21,6 @@ I was a Visiting Researcher at University of Washington (UW) in Computing and So
 For my bachelors thesis project I worked on [Visual navigation of mobile robot using monocular vision](https://github.com/Sailja/Visual-based-navigation) at IIT Kharagpur under the guidance of Prof. Jayanta Mukhopadhyay in the Department of Computer Science and Engineering. I presented methods to develop some of the building blocks for a personal assistant robot where I successfully developed novel approach of detecting obstacles using monocular vision.
 
 Please refer to my resume for further details about all of my projects and research experience.
+
+
+

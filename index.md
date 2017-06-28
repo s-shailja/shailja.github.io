@@ -23,4 +23,4 @@ For my bachelors thesis project I worked on [Visual navigation of mobile robot u
 Please refer to my resume for further details about all of my projects and research experience.
 
 
-
+---
