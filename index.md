@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="shailja.jpg">
 
-Hi! I am a visiting researcher in Pittsburgh working with Professor George Stetten [(VIA Lab)](http://www.vialab.org/main/Home/People.html) at Carnegie Mellon University (CMU), Robotics Institute / University of Pittsburgh, BioEngineering department. I am also collaborating on a project at University of Pittsburgh Medical College (UPMC) with Professor Howard Aizenstein and Minjie Wu. Earlier, I graduated with a bachelors degree from the Department of Electrical Engineering, IIT Kharagpur in 2016.
+Hi! I am a visiting researcher in Pittsburgh working with Professor George Stetten [(VIA Lab)](http://www.vialab.org/main/Home/People.html) at University of Pittsburgh, BioEngineering department / Carnegie Mellon University (CMU), Robotics Institute. I am also collaborating on a project at University of Pittsburgh Medical College (UPMC) with Professor Howard Aizenstein and Minjie Wu. Earlier, I graduated with a bachelors degree from the Department of Electrical Engineering, IIT Kharagpur in 2016.
 
 ## Research Interest
 
