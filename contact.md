@@ -5,19 +5,6 @@ is_contact: true
 
 * Email: [shailjasah12@gmail.com](mailto:shailjasah12@gmail.com)
 
-<* Phone: [+91-7863943108](tel:+91-7863943108)>
-
----
-
-<## Mailing Address>
-
-> Shailja
->
-> Flipkart, Cessna Business Park
->
-> Bengaluru, India
->
----
 
 ## Social
 
