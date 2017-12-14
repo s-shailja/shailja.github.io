@@ -1,6 +1,9 @@
+
+
 - name: "Contact"
   link: "contact"
-
+- name: "Publication"
+  link: "publication"
 - name: "Resume"
   link: "resume.pdf"
 
