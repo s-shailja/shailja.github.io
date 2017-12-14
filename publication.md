@@ -1,3 +1,4 @@
+
 # Conference Publication
 * Shailja and George Stetten "Descending Variance Graphs for Segmenting Neurological Structures" - In Preparation for MICCAI, 2018.
 
