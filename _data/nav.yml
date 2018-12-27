@@ -4,8 +4,12 @@
 # - name: "Publications"
 #   link: "publication"
 
+-name: "Blog"
+ link:"blog"
+
 - name: "Resume"
   link: "resume.pdf"
 
 - name: "About"
   link: "/"
+  
