@@ -1,8 +1,8 @@
 - name: "Contact"
   link: "contact"
 
-- name: "Publications"
-  link: "publication"
+# - name: "Publications"
+#   link: "publication"
 
 - name: "Resume"
   link: "resume.pdf"
