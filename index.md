@@ -5,8 +5,9 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="shailja.jpg">
+Currently, I am a PhD student at University of California, Santa Barbara in the Electrical and Computer Engineering Deaprtment. My research interests lie in algorithms and complexity especially graph theory. I had recieved my bachelors degree from the Electrical Engineering Department, IIT Kharagpur.
 
-Hi! I am a visiting researcher in Pittsburgh working with Professor George Stetten [(VIA Lab)](http://www.vialab.org/main/Home/People.html) at University of Pittsburgh, Bioengineering department / Carnegie Mellon University (CMU), Robotics Institute. I am also collaborating on a project at University of Pittsburgh Medical College (UPMC) with Professor Howard Aizenstein and Minjie Wu. Earlier, I graduated with a bachelors degree from the Department of Electrical Engineering, IIT Kharagpur in 2016.
+<!--
 
 ## Research Interest
 
@@ -21,7 +22,7 @@ I was a Visiting Researcher at University of Washington (UW) in Computing and So
 For my bachelors thesis project I worked on [Visual navigation of mobile robot using monocular vision](https://github.com/Sailja/Visual-based-navigation) at IIT Kharagpur under the guidance of Prof. Jayanta Mukhopadhyay in the Department of Computer Science and Engineering. I presented methods to develop some of the building blocks for a personal assistant robot where I successfully developed novel approach of detecting obstacles using monocular vision.
 
 Please refer to my resume for further details about all of my projects and research experience. I would be glad to answer any questions that you may have about my work or any other projects. 
-
+-->
 
 ---
 <hr>
