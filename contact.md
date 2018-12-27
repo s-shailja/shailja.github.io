@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [shailjasah12@gmail.com](mailto:shailjasah12@gmail.com)
+* Email: [shailja@ucsb.edu](mailto:shailja@ucsb.edu)
 
 
 ## Social
