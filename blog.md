@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Big Ideas Finalist
-Our team has been selected as a finalist in the 2018-2019 Big Ideas Contest organized by UC Berkley in the Connected Communities category. We are among the 50 teams selected for the final round of this yearlong innovation contest. We have prototyped the technology and tested it for one specific use case. We are excited to work under the Big Ideas mentorship to map out the business model and logistical requirements.
+Our team has been selected as a finalist in the 2018-2019 <a href="https://bigideas.berkeley.edu/">Big Ideas Contest</a> organized by UC Berkley in the Connected Communities category. We are among the 50 teams selected for the final round of this yearlong innovation contest. We have prototyped the technology and tested it for one specific use case. We are excited to work under the Big Ideas mentorship to map out the business model and logistical requirements.
 
 
 ## Santa Monica Pier
