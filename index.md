@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="shailja.jpg">
-Currently, I am a PhD student at University of California, Santa Barbara in the Electrical and Computer Engineering Deaprtment. My research interests lie in algorithms and complexity especially graph theory. I had recieved my bachelors degree from the Electrical Engineering Department, IIT Kharagpur.
+Currently, I am a PhD student at the University of California, Santa Barbara in the Electrical and Computer Engineering Department. My research interests lie in algorithms and complexity especially graph theory. I received my bachelor's degree from the Electrical Engineering Department, IIT Kharagpur.
 
 <!--
 
