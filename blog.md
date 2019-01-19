@@ -3,6 +3,7 @@ layout: default
 ---
 ## Good Movies
 <ul>
+  <li>Shutter Island</li>
   <li>Ugly</li>
   <li>Hell or High Water</li>
   <li>Titli</li>
