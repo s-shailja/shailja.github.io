@@ -32,3 +32,4 @@ Badwater basin (not at all bad) is almost 300 ft below the sea level. Do check o
 Thank you, Caltech!
 
 <img src="fireworks.jpg" alt="welcome">
+Picture credit: Welai Lu
