@@ -1,1 +1,5 @@
-[CS170 (Undergraduate) Operating Systems: Winter 2019](https://www.cs.ucsb.edu/~trinabh/classes/w19/index.html)
+---
+layout: default
+is_contact: true
+---
+CS170 (Undergraduate) [Operating Systems: Winter 2019](https://www.cs.ucsb.edu/~trinabh/classes/w19/index.html)
