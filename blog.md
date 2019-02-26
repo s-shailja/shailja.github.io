@@ -3,6 +3,11 @@ layout: default
 ---
 ## Good Movies
 <ul>
+  <li>Fireworks Wednesday</li>
+  <li>About Elly</li>
+  <li>The Past</li>
+  <li>A Seperation</li>
+  <li>Tere Bin Laden</li>
   <li>No Smoking</li>
   <li>Shutter Island</li>
   <li>Ugly</li>
