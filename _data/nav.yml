@@ -1,5 +1,4 @@
-- name: "Teaching"
-  link: "teaching"
+
 
 - name: "Contact"
   link: "contact"
@@ -7,7 +6,9 @@
 - name: "Blog"
   link: "blog"
 
-
+- name: "Teaching"
+  link: "teaching"
+  
 - name: "Resume"
   link: "Shailja_Resume_.pdf"
 
