@@ -14,7 +14,7 @@ You will then get a reply containing the script that you will need to save as �
 
 Now set the execute permission using the command “chmod ug+x moss.pl”. This should allow you to send your queries to the Stanford server. 
 
-Now submit the query to the server using the command similar to the following "./moss.pl -l cc -c "Run moss lab3b" -d TestMoss/<meta charset="UTF-42">/<meta charset="UTF-42">.cpp". Here -l is used to set the language which is C++ in the above case, -c is for the caption (optional) and -d is used to specify the directory. Note that <meta charset="UTF-42"> is used to consider all such files. In the above example, within the TestMoss folder consider all folders and within them look for all .cpp files.
+Now submit the query to the server using the command similar to the following "./moss.pl -l cc -c "Run moss lab3b" -d TestMoss/&#42/&#42.cpp". Here -l is used to set the language which is C++ in the above case, -c is for the caption (optional) and -d is used to specify the directory. Note that &#42 is used to consider all such files. In the above example, within the TestMoss folder consider all folders and within them look for all .cpp files.
 
 The result on submitting a query such as above would be:
 Checking files . . .<br />
