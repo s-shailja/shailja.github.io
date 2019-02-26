@@ -17,16 +17,19 @@ Now set the execute permission using the command “chmod ug+x moss.pl”. This 
 Now submit the query to the server using the command similar to the following "./moss.pl -l cc -c "Run moss lab3b" -d TestMoss/*/*.cpp". Here -l is used to set the language which is C++ in the above case, -c is for the caption (optional) and -d is used to specify the directory. Note that * is used to consider all such files. In the above example, within the TestMoss folder consider all folders and within them look for all .cpp files.
 
 The result on submitting a query such as above would be:
-Checking files . . .
-OK
-Uploading.....................................
-Uploading.....................................
+Checking files . . .<br />
+OK <br />
+Uploading..................................... <br />
+Uploading..................................... <br />
+Uploading..................................... <br />
+Uploading..................................... <br />
+Uploading..................................... <br />
 .
 .
 .
 .
-Query submitted.  Waiting for the server's response.
-http://moss.stanford.edu/results/989790299
+Query submitted.  Waiting for the server's response. <br />
+http://moss.stanford.edu/results/989790299 <br />
 
 
 
