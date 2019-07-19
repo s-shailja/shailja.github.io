@@ -6,7 +6,7 @@ The tickets to Gatwik airport is cheaper than Heathrow airport. I reached Gatwik
 One major underground station's name which you would like to remember is Paddington station. All other stations are easily accessible from here. We left in the morning around 10 am. The following map is very useful for a one day amazing site-seeing in London. This roundabout will cover the famous places which everyone recommends.
 
 
-<img src=" 	The Original Tour - 27th April 2019 Map MR.jpg.gif" alt="london map">
+<img src="The%20Original%20Tour%20-%2027th%20April%202019%20Map%20MR.jpg.gif" alt="london map">
 
 
 
