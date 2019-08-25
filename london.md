@@ -35,7 +35,7 @@ Horse Guards Parade
 
 Westminster Abbey church
 
-<img src="IMG_20190711_155710.jpg" alt="Westminster Abbey church">
+<img src="IMG_20190711_155710 (1).jpg" alt="Westminster Abbey church">
 
 Westminster Abbey: UK Parliament
 
@@ -66,6 +66,7 @@ Borough Market
 
 
 The Monument
+
 <img src="IMG_20190711_204552.jpg" alt="The Monument">
 
 
