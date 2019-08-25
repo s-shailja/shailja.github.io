@@ -13,5 +13,17 @@ One major underground station's name which you would like to remember is Padding
 
 It is not a good idea to take the Big bus or hop on hop off bus for the tour as it will be costly and will give you only half of the london experience. Try to take underground trains to hop on and hop off at different destination. Sometime you know you hear names of famous places and you build mirage in your mind but when you are actually at that place you may not even be able to recognize. This happened to me at one of the places, so I am going to include photos as I discuss about it. 
 
+Reagent's Park
 
-<img src="DSCN0282.JPG" alt="badwater basin">
+<img src="IMG_2194.jpg" alt="Reagent's Park">
+
+Buckingham Palace
+
+<img src="IMG_2200.jpg" alt="Buckingham Palace">
+
+St. James's Park
+
+<img src="IMG_2208.jpg" alt="St. James's Park">
+
+
+
