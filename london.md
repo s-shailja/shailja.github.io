@@ -72,7 +72,7 @@ The Monument
 
 St Paul's Cathedral
 
-<img src="IMG_20190711_212655.jpg" alt="St Paul's Cathedral">
+<img src="IMG_2271.jpg" alt="St Paul's Cathedral">
 
 London Skyline
 
