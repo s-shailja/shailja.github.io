@@ -25,5 +25,49 @@ St. James's Park
 
 <img src="IMG_2208.jpg" alt="St. James's Park">
 
+Churchill War Rooms
+
+<img src="IMG_2225.jpg" alt="St. James's Park">
+
+Horse Guards Parade
+
+<img src="IMG_2229.jpg" alt="Horse Guards Parade">
+
+Westminster Abbey church
+
+<img src="IMG_20190711_155710.jpg" alt="Westminster Abbey church">
+
+Westminster Abbey: UK Parliament
+
+<img src="IMG_20190711_160205.jpg" alt="UK Parliament">
+
+Big Ben
+
+<img src="IMG_20190711_165331.jpg" alt="Big Ben">
+
+
+The London Eye
+
+<img src="IMG_20190711_173210.jpg" alt="The London Eye">
+
+Tower of London
+
+<img src="IMG_20190711_182601.jpg" alt="Tower of London">
+
+
+Tower Bridge
+
+<img src="IMG_20190711_193541.jpg" alt="Tower Bridge">
+
+
+Borough Market
+
+<img src="IMG_20190711_201840.jpg" alt="Borough Market">
+
+
+The Monument
+<img src="IMG_20190711_204552.jpg" alt="The Monument">
+
+
 
 
