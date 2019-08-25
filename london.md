@@ -70,5 +70,11 @@ The Monument
 <img src="IMG_20190711_204552.jpg" alt="The Monument">
 
 
+St Paul's Cathedral
+
+<img src="IMG_20190711_212655.jpg" alt="St Paul's Cathedral">
+
+
+
 
 
