@@ -13,70 +13,7 @@ One major underground station's name which you would like to remember is Padding
 
 It is not a good idea to take the Big bus or hop on hop off bus for the tour as it will be costly and will give you only half of the london experience. Try to take underground trains to hop on and hop off at different destination. Sometime you know you hear names of famous places and you build mirage in your mind but when you are actually at that place you may not even be able to recognize. This happened to me at one of the places, so I am going to include photos as I discuss about it. 
 
-Reagent's Park
 
-<img src="IMG_2194.jpg" alt="Reagent's Park">
-
-Buckingham Palace
-
-<img src="IMG_2200.jpg" alt="Buckingham Palace">
-
-St. James's Park
-
-<img src="IMG_2208.jpg" alt="St. James's Park">
-
-Churchill War Rooms
-
-<img src="IMG_2225.jpg" alt="St. James's Park">
-
-Horse Guards Parade
-
-<img src="IMG_2229.jpg" alt="Horse Guards Parade">
-
-Westminster Abbey church
-
-<img src="IMG_20190711_155710 (1).jpg" alt="Westminster Abbey church">
-
-Westminster Abbey: UK Parliament
-
-<img src="IMG_20190711_160205.jpg" alt="UK Parliament">
-
-Big Ben
-
-<img src="IMG_20190711_165331.jpg" alt="Big Ben">
-
-
-The London Eye
-
-<img src="IMG_20190711_173210.jpg" alt="The London Eye">
-
-Tower of London
-
-<img src="IMG_20190711_182601.jpg" alt="Tower of London">
-
-
-Tower Bridge
-
-<img src="IMG_20190711_193541.jpg" alt="Tower Bridge">
-
-
-Borough Market
-
-<img src="IMG_20190711_201840.jpg" alt="Borough Market">
-
-
-The Monument
-
-<img src="IMG_20190711_204552.jpg" alt="The Monument">
-
-
-St Paul's Cathedral
-
-<img src="IMG_2271.jpg" alt="St Paul's Cathedral">
-
-London Skyline
-
-<img src="IMG_20190711_212655.jpg" alt="London Skyline">
 
 
 
