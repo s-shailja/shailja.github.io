@@ -9,6 +9,9 @@
   
 - name: "Resume"
   link: "Shailja_Resume_.pdf"
+  
+- name: "News"
+link: "news"
 
 - name: "About"
   link: "/"
