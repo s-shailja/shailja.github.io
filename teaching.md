@@ -3,7 +3,7 @@ layout: default
 ---
 # Courses
 
-ECE178 [Digital Image Processing]
+ECE178 Digital Image Processing
 
 CS170 [Operating Systems: Winter 2019](https://www.cs.ucsb.edu/~trinabh/classes/w19/index.html)
 
