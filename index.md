@@ -9,7 +9,7 @@ I am a graduate student at the University of California, Santa Barbara in the El
 
 
 ## Research Interest
-I am passionate about research on image processing especially biomedical image processing. My current research work focuses on brain tumor segmentation and cell segmentation.
+I am passionate about research on image processing especially biomedical image analysis. My current research work focuses on brain tumor segmentation and cell segmentation.
 
 <!-- At University of Pittsburgh Medical Center (UPMC), I worked on automated image segmentation and its analysis using high resolution ultrasound imaging. I worked in the Visualization and Image Analysis [(VIA) Laboratory](http://www.vialab.org/main/Home/People.html) with Prof. George Stetten. We demonstrated a novel and intuitive method using an improvement of Descending Variance Graphs (DVG) for automated segmentation of neurological structures.
 
