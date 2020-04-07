@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [A cute little trip to London in summer](https://shailjasah.github.io/london)
+## [Summer in London](https://shailjasah.github.io/london)
 
 ## [A System for Detecting Software Similarity: MOSS](https://shailjasah.github.io/moss)
 
