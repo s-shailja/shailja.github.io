@@ -1,4 +1,4 @@
-!---
+<!---
 layout: default
 ---
 
@@ -14,5 +14,5 @@ layout: default
 
 ## [Death valley](https://shailjasah.github.io/deathvalley)
 
-## [A warm welcome](https://shailjasah.github.io/welcome)!
+## [A warm welcome](https://shailjasah.github.io/welcome)>
 
