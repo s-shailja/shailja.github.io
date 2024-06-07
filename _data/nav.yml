@@ -1,8 +1,14 @@
 - name: "Contact"
   link: "contact"
 
+
+- name: "Teaching"
+  link: "teaching"
+  
 - name: "Resume"
-  link: "resume.pdf"
+  link: "Shailja_Resume_.pdf"
+
 
 - name: "About"
   link: "/"
+  
