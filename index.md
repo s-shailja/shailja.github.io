@@ -5,22 +5,11 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="shailja.jpg">
-I am a graduate student at the University of California, Santa Barbara in the Electrical and Computer Engineering Department. I received my bachelor's degree from the Electrical Engineering Department, IIT Kharagpur.
+I am a Postdoctoral researcher in the Radiological Science Laboratory at Stanford University, California. I recently completed my PhD in Electrical and Computer Engineering at the University of California, Santa Barbara. My research vision is to model healthcare data for precise diagnostics using AI and to integrate domain knowledge to "close the loop" between surgeons, physicians, and scientists. My Ph.D. dissertation focused on developing a principled approach to model the white matter pathways in the human brain to analyze the topology of brain connections. At the Radiological Science Laboratory, I work on both **Design** and **Analysis** components of diffusion MRI (dMRI). The Design aspect involves developing clinically feasible dMRI scans (5–10 minutes) that reliably map white-matter connectivity at sufficient resolution. On the Analysis side, I focus on integrating structural and functional MRI connectivity data with electrophysiological measurements. 
 
+## Latest
 
-## Research Interest
-I am passionate about research on image processing especially biomedical image analysis. My current research work focuses on brain tumor segmentation and cell segmentation.
-
-<!-- At University of Pittsburgh Medical Center (UPMC), I worked on automated image segmentation and its analysis using high resolution ultrasound imaging. I worked in the Visualization and Image Analysis [(VIA) Laboratory](http://www.vialab.org/main/Home/People.html) with Prof. George Stetten. We demonstrated a novel and intuitive method using an improvement of Descending Variance Graphs (DVG) for automated segmentation of neurological structures.
-
-I was a Visiting Researcher at University of Washington (UW) in Computing and Software Systems Division under the guidance of Prof. Tyler Folsom for 3 months. I worked on [Localization and Navigation of a Self Driving Tricycle, Elcano](https://github.com/Sailja/elcano), an open source software which is written in C++. I developed the software for the following modules:
-* Navigator: Reads data from GPS, speedometer, compass and optical mouse to get best position estimate.
-* Vision: Developed and extended the vision system to be able to identify lane edges as an aid to staying in the lane.
-
-For my bachelors thesis project I worked on [Visual navigation of mobile robot using monocular vision](https://github.com/Sailja/Visual-based-navigation) at IIT Kharagpur under the guidance of Prof. Jayanta Mukhopadhyay in the Department of Computer Science and Engineering. I presented methods to develop some of the building blocks for a personal assistant robot where I successfully developed novel approach of detecting obstacles using monocular vision.
-
-Please refer to my resume for further details about all of my projects and research experience. I would be glad to answer any questions that you may have about my work or any other projects. -->
-
+I will be presenting my research on "Can tractography predict electrophysiological connectivity?" at the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives.
 
 ---
 <hr>
